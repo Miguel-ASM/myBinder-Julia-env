@@ -1,2 +1,2 @@
 # myBinder-Julia-env
-Repository for a Julia environmen running in myBinder
+Repository for a Julia environment running in myBinder
